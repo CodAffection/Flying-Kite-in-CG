@@ -1,4 +1,4 @@
-# Flying Kite in CG
+# Flying Kite in CG.
 Flying Kite in Computer Graphics
 
 ## Get the Code
